@@ -1,11 +1,14 @@
 # Olá, eu sou Júlia! 👋
 
-Minha trajetória profissional é guiada por determinação e aprendizado constante. Com mais de 10 anos de experiência em finanças e planejamento financeiro (selo CFP®), sendo 8 anos no mercado financeiro, atuo na **análise de dados** voltado ao mercado financeiro e gerenciamento de empresas com C-levels do segmento Corporate Banking. Minha experiência une gestão comercial e análise de dados, u􀆟lizando tecnologia para o􀆟mizar os processos no mercado financeiro.
+Minha trajetória profissional é guiada por determinação e aprendizado constante. Com mais de 10 anos de experiência em finanças e planejamento financeiro (selo CFP®), sendo 8 anos no mercado financeiro, atuo na **análise de dados** voltado ao mercado financeiro e gerenciamento de empresas com C-levels do segmento Corporate Banking. Minha experiência une gestão comercial e análise de dados, utilizando tecnologia para otimizar os processos no mercado financeiro.
 
 ## 🔧 Ferramentas e Tecnologias
 - Python
 - Java Script
+- Java
 - SQL
+- CSS
+- HTML
 - Power BI
 - Excel avançado
 
