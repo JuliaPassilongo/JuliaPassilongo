@@ -1,26 +1,26 @@
-# Olá, eu sou Júlia! 👋
+# Hi, I'm Júlia! Welcome to my Github!👋
 
-Minha trajetória profissional é guiada por determinação e aprendizado constante. Com mais de 10 anos de experiência em finanças e planejamento financeiro (selo CFP®), sendo 8 anos no mercado financeiro, atuo na **análise de dados** voltado ao mercado financeiro e gerenciamento de empresas com C-levels do segmento Corporate Banking. Minha experiência une gestão comercial e análise de dados, utilizando tecnologia para otimizar os processos no mercado financeiro.
+With over 10 years of experience in finance and financial planning (CFP® certification), including 8 years in the financial industry, I specialize in **data analysis** within the financial sector and working with C-level executives in Corporate Banking. My expertise combines commercial management with data analysis, leveraging technology to optimize financial market processes.
 
-## 🔧 Ferramentas e Tecnologias
+## 🔧 Tools & Technologies
 - Python
-- Java Script
+- JavaScript
 - Java
 - SQL
 - CSS
 - HTML
 - Power BI
-- Excel avançado
+- Advanced Excel
 
-## 📈 Meu GitHub
-Aqui você vai encontrar meus projetos em desenvolvimento e algumas análises que tenho feito, sempre buscando melhorar meus conhecimentos.
+## 📈 My GitHub
+Here you'll find my ongoing projects and analyses, reflecting my commitment to continuous learning and improvement.
 
-## 🌱 Atualmente Estudando
-- **Business Intelligence (BI)** e **Machine Learning** (Escola Preditiva AI e de forma autonôma)
-- Prática: desenvolvimento de Projetos em análise de dados, utilizando **SQL**, **Python** e **JavaScript**, dentre outros.
-- Desenvolvimento de softwares
+## 🌱 Currently Learning
+- **Business Intelligence (BI)** and **Machine Learning** (Preditiva AI School and self-directed learning)
+- Working on data analysis projects using **SQL**, **Python**, and **JavaScript**.
+- Software development
 
-## 📫 Entre em contato
+## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/juliapassilongo/)  
 [![Outlook](https://img.shields.io/badge/Outlook-blue?logo=microsoft-outlook)](mailto:juliagomespassilongo@outlook.com)  
 [![Medium](https://img.shields.io/badge/Medium-black?logo=medium)](https://medium.com/@juliapassilongo)  
