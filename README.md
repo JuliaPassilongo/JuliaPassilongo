@@ -1,6 +1,8 @@
 # Olá, eu sou Júlia! 👋
 
-Sou uma profissional com experiência no mercado financeiro, fascinada por **análise de dados** e **desenvolvimento de software**. Estou atualmente focada em expandir as minhas habilidades em **Python**, **Power BI** e **SQL**.
+Minha trajetória profissional é guiada por determinação e aprendizado constante. Com mais de 10 anos de experiência em finanças, sendo 8 anos no mercado financeiro, atuo na **análise de dados** voltado ao mercado financeiro, e gerenciamento de empresas com C-levels do segmento Corporate Banking. Minha experiência une gestão comercial e análise de dados, u􀆟lizando tecnologia para o􀆟mizar os processos no mercado financeiro.
+
+Atualmente focada em expandir as minhas habilidades em **Python**, **Power BI** e **SQL**.
 
 ## 🔧 Ferramentas e Tecnologias
 - Python
@@ -13,11 +15,11 @@ Sou uma profissional com experiência no mercado financeiro, fascinada por **an�
 Aqui você vai encontrar meus projetos em desenvolvimento e algumas análises que tenho feito, sempre buscando melhorar meus conhecimentos.
 
 ## 🌱 Atualmente Estudando
-- Aprofundamento em **Business Intelligence (BI)** e **análise de dados**
-- Projetos com **SQL**, **Python** e **JavaScript**
+- **Business Intelligence (BI)** e **Machine Learning** (Escola Preditiva AI e de forma autonôma)
+- Prática: desenvolvimento de Projetos em análise de dados, utilizando **SQL**, **Python** e **JavaScript**, dentre outros.
 
 ## 📫 Entre em contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/JuliaPasislongo)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/juliapassilongo/)  
 [![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram)](https://www.instagram.com/JuliaPassilongo)  
 
 <!--
