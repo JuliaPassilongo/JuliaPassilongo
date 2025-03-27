@@ -1,6 +1,6 @@
 # Hi, I'm Júlia! Welcome to my Github!👋
 
-With over 10 years of experience in finance and financial planning (CFP® certification), including 8 years in the financial industry, I specialize in **data analysis** within the financial sector and working with C-level executives in Corporate Banking. My expertise combines commercial management with data analysis, leveraging technology to optimize financial market processes.
+With over 10 years of experience in finance and financial planning (CFP® certification), including 8 years in the financial industry, I specialize in **data analysis** within the financial sector and working with C-level executives in serving medium and large companies. My expertise combines commercial management with data analysis, leveraging technology to optimize financial market processes.
 
 ## 🔧 Tools & Technologies
 - Python
