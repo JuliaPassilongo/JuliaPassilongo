@@ -4,11 +4,7 @@ With over 10 years of experience in finance and financial planning (CFP® certif
 
 ## 🔧 Tools & Technologies
 - Python
-- JavaScript
-- Java
 - SQL
-- CSS
-- HTML
 - Power BI
 - Advanced Excel
 
